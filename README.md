@@ -29,3 +29,5 @@ A simple Java Swing-based Car Rental System with MySQL integration. This desktop
 Car-Rental-System/ ├── src/ │   └── main/java/com/carrental/ │       ├── Main.java │       ├── db/DBConnection.java │       ├── gui/LoginForm.java │       ├── model/Car.java │       └── dao/CarDAO.java ├── lib/ (for MySQL JDBC driver) ├── CarRentalDB.sql ├──
 
 
+## Application Screen
+![Image](https://github.com/user-attachments/assets/74707a50-a543-47c4-a4cb-7f36038201b7)
