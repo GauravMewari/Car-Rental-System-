@@ -1,4 +1,4 @@
-# Car Rental System
+# 🚗 Car Rental System
 
 A simple Java Swing-based Car Rental System with MySQL integration. This desktop application allows management of cars, customers, and rental records with a graphical user interface.
 
